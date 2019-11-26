@@ -1,10 +1,10 @@
 ## TimDev
 
-<img src="./Frontend/src/assets/logo.svg" height="100px">
+<img src="frontend/src/assets/logo.svg" height="100px">
 
 ## Tecnologias
-- <img src="./Frontend/src/assets/nodejs.logo.svg" height="50px">
-- <img src="./Frontend/src/assets/react.logo.svg" height="50px">
+- <img src="frontend/src/assets/nodejs.logo.svg" height="50px">
+- <img src="frontend/src/assets/react.logo.svg" height="50px">
 
 
 ## BackEnd (Node.js) - Bibliotecas/Frameworkes
